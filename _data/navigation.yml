@@ -9,8 +9,8 @@ main:
   - title: "Research & Work Experience"
     url: /research/
         
-  - title: "Side Projects"
-    url: /projects/
+    #  - title: "Side Projects"
+    #    url: /projects/
 
     #  - title: "Blog Posts"
     #    url: /year-archive/
