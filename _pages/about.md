@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a recent graduate of the University of Maryland, College Park, where I earned degrees in Mathematics and Computer Science. 
+I am a first-year Ph.D student in the Computer Science Department at the University of Maryland, College Park. 
 I am passionate about problems at the intersection of computing and mathematics, including scientific and high-performance computing, 
-numerical analysis, optimization, and machine learning. 
-
-I am currently seeking jobs in software engineering and data science.
-
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+numerical analysis, applied harmonic analysis, and machine learning. 
