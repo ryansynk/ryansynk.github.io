@@ -19,4 +19,4 @@ Pieter Ghysels, Ryan Synk, High performance sparse multifrontal solvers on moder
 CV
 ======
 
-You can find my CV [here](https://ryansynk.github.io/files/ryansynk_resume.pdf)
+You can find my CV [here](https://ryansynk.github.io/files/ryansynk_cv.pdf)
