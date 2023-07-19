@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Ph.D student in the Computer Science Department at the University of Maryland, College Park.
-I am fortunate to be advised by Howard Elman and Abinav Bhatele, where I work at the intersection of scientific and high-performance computing.
+I am a  Ph.D student in the Computer Science Department at the University of Maryland, where I just finished my second year.
+My work thus far has been at the intersection of scientific and high-performance computing.
 
 
 Research & Publications
