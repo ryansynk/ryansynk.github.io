@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a  Ph.D student in the Computer Science Department at the University of Maryland, where I just finished my second year.
+I am a  Ph.D student in the Computer Science Department at the University of Maryland, where I have started my third year.
 My work thus far has been at the intersection of scientific and high-performance computing.
 
 
