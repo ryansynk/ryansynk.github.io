@@ -11,6 +11,8 @@ I am a fifth-year Ph.D student in the Computer Science Department at the Univers
 
 My work is on efficient algorithms for machine learning and information retrieval. I am currently working on embedding models for raw sequencing data.
 
+I am advised by [Ramani Duraiswami](https://www.cs.umd.edu/people/ramanid) and [Tom Goldstein](https://www.cs.umd.edu/~tomg/)
+
 
 Research & Publications
 ======
