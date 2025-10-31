@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a fifth-year Ph.D student in the Computer Science Department at the University of Maryland.
 
-My work is on efficient algorithms for machine learning. I have also worked in scientific and high-performance computing.
+My work is on efficient algorithms for machine learning and information retrieval. I am currently working on embedding models for raw sequencing data.
 
 
 Research & Publications
